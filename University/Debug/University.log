@@ -1,0 +1,8 @@
+﻿  Data.cpp
+  Group.cpp
+  Person.cpp
+C:\Users\01mur\source\repos\University\University\Person.cpp(9,8): warning C4553: '==': result of expression not used; did you intend '='?
+  Source.cpp
+  University.cpp
+  Generating Code...
+  University.vcxproj -> C:\Users\01mur\source\repos\University\Debug\University.exe
